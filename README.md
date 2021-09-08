@@ -1,9 +1,9 @@
-# This project name
+# Etherookie
 
 ****
 
 <p>Version 1.0</p>
-<p>by </p>
+<p>by m3yevn</p>
 
 <hr/>
 
@@ -17,7 +17,10 @@ N.A
 
 ## 📚 Tech Stack
 
-N.A
+ - React Native
+ - UI Kitten
+ - EtherScan API
+
 
 ## 📸 Screenshots
 
@@ -48,6 +51,7 @@ This project does not have a license.
 
 ## Dependencies
 
+ - axios : $ ^0.21.4
  - expo : $ ~42.0.1
  - expo-status-bar : $ ~1.0.4
  - react : $ 16.13.1
